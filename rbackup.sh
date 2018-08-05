@@ -8,7 +8,7 @@ set -x
 #
 
 RSYNC=/usr/bin/rsync
-BASE_DIRECTORY=/daten/kunden
+BASE_DIRECTORY=/daten/backup
 
 if [ "$1" = "" ]
 then
